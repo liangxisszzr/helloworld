@@ -1,4 +1,4 @@
-package com.eastnorth.SimDuck.duck;
+package com.eastnorth.SimDuck.StrategyPattern.duck;
 
 import lombok.Data;
 
