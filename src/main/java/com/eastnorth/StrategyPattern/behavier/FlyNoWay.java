@@ -1,4 +1,4 @@
-package com.eastnorth.SimDuck.StrategyPattern.behavier;
+package com.eastnorth.StrategyPattern.behavier;
 
 public class FlyNoWay implements FlyBehavior {
     public void fly() {

@@ -1,10 +1,10 @@
-package com.eastnorth.SimDuck.excute;
+package com.eastnorth.StrategyPattern.SimDuck;
 
-import com.eastnorth.SimDuck.StrategyPattern.behavier.*;
-import com.eastnorth.SimDuck.StrategyPattern.duck.Duck;
-import com.eastnorth.SimDuck.StrategyPattern.duck.MallardDuck;
-import com.eastnorth.SimDuck.StrategyPattern.duck.RedHeadDuck;
-import com.eastnorth.SimDuck.StrategyPattern.duck.RubberDuck;
+import com.eastnorth.StrategyPattern.behavier.*;
+import com.eastnorth.StrategyPattern.duck.Duck;
+import com.eastnorth.StrategyPattern.duck.MallardDuck;
+import com.eastnorth.StrategyPattern.duck.RedHeadDuck;
+import com.eastnorth.StrategyPattern.duck.RubberDuck;
 
 public class DuckMain {
     public static void main(String[] args) {

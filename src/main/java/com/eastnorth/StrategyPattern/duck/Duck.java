@@ -1,7 +1,7 @@
-package com.eastnorth.SimDuck.StrategyPattern.duck;
+package com.eastnorth.StrategyPattern.duck;
 
-import com.eastnorth.SimDuck.StrategyPattern.behavier.FlyBehavior;
-import com.eastnorth.SimDuck.StrategyPattern.behavier.QuackBehavior;
+import com.eastnorth.StrategyPattern.behavier.FlyBehavior;
+import com.eastnorth.StrategyPattern.behavier.QuackBehavior;
 import lombok.Data;
 
 @Data
