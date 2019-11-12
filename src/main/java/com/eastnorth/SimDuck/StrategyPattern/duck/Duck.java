@@ -8,8 +8,10 @@ import lombok.Data;
 public class Duck {
     FlyBehavior flyBehavior;
     QuackBehavior quackBehavior;
-    public void swim() {};
-    public void display() {};
+    public void swim() {
+        System.out.println("我会游泳!");
+    }
+    public void display() {}
     public void performFly() {
         flyBehavior.fly();
     }
