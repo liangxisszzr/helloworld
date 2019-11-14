@@ -17,5 +17,9 @@ public class ObserverMain {
         weatherData.setMeasurements(78, 90, 29.2f);
 
         currentConditionsDisplay.display();
+
+        currentConditionsDisplay.setHumidity(weatherData.getHumidity());
+
+        System.out.println(currentConditionsDisplay.getHumidity());
     }
 }
