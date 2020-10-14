@@ -1,4 +1,4 @@
-package com.jumpjob.LeatCode;
+package com.jumpjob.LeatCode.linkedlist;
 
 /**
  * 交换链表中的节点
