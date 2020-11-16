@@ -1,7 +1,7 @@
 package com.jumpjob.LeatCode.linkedlist;
 
 /**
- * 合并两个有序链表
+ * 合并两个有序链表 *
  */
 public class MergeLinkedList {
     public static void main(String[] args) {

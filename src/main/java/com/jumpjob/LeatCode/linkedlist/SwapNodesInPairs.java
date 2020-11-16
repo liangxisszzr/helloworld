@@ -1,7 +1,7 @@
 package com.jumpjob.LeatCode.linkedlist;
 
 /**
- * 交换链表中的节点
+ * 交换链表中的节点 *
  */
 public class SwapNodesInPairs {
     public static void main(String[] args) {
@@ -14,6 +14,20 @@ public class SwapNodesInPairs {
             System.out.println(res.val);
             res = res.next;
         }
+    }
+
+    public static ListNode producer(int[] a) {
+        if (a == null || a.length == 0) {
+            return null;
+        }
+        ListNode res = new ListNode(-1);
+        ListNode flag = res;
+        for (int value : a) {
+            flag.next = new ListNode(value);
+            flag = flag.next;
+        }
+
+        return res.next;
     }
 
     /**

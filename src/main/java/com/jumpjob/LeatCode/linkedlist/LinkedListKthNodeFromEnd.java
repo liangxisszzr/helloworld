@@ -1,7 +1,7 @@
 package com.jumpjob.LeatCode.linkedlist;
 
 /**
- * 返回倒数第K个节点
+ * 返回倒数第K个节点 *
  */
 public class LinkedListKthNodeFromEnd {
     public static void main(String[] args) {

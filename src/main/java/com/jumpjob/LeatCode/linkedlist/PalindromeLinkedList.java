@@ -3,7 +3,7 @@ package com.jumpjob.LeatCode.linkedlist;
 import java.util.Stack;
 
 /**
- * 回文链表
+ * 回文链表 *
  */
 public class PalindromeLinkedList {
     public static void main(String[] args) {

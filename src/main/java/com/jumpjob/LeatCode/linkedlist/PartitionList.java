@@ -1,7 +1,7 @@
 package com.jumpjob.LeatCode.linkedlist;
 
 /**
- * 分隔链表
+ * 分隔链表 *
  */
 public class PartitionList {
     public static void main(String[] args) {

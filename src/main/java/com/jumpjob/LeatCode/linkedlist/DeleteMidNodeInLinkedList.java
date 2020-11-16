@@ -1,7 +1,7 @@
 package com.jumpjob.LeatCode.linkedlist;
 
 /**
- * 删除中间节点,仅可访问删除节点
+ * 删除中间节点,仅可访问删除节点 *
  */
 public class DeleteMidNodeInLinkedList {
     public static void main(String[] args) {
