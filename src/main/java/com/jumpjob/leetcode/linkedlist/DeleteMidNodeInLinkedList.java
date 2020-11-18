@@ -1,4 +1,4 @@
-package com.jumpjob.LeatCode.linkedlist;
+package com.jumpjob.leetcode.linkedlist;
 
 /**
  * 删除中间节点,仅可访问删除节点 *

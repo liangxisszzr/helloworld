@@ -1,4 +1,4 @@
-package com.jumpjob.LeatCode.linkedlist;
+package com.jumpjob.leetcode.linkedlist;
 
 /**
  * 反转链表II：翻转 m - n 部分的节点 *

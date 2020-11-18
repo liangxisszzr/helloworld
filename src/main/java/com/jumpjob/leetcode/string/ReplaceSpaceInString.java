@@ -1,4 +1,4 @@
-package com.jumpjob.LeatCode.string;
+package com.jumpjob.leetcode.string;
 
 /**
  * 替换字符串中的空格

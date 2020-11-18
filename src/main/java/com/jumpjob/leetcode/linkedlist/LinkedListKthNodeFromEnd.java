@@ -1,4 +1,4 @@
-package com.jumpjob.LeatCode.linkedlist;
+package com.jumpjob.leetcode.linkedlist;
 
 /**
  * 返回倒数第K个节点 *

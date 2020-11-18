@@ -1,4 +1,4 @@
-package com.jumpjob.LeatCode.tree;
+package com.jumpjob.leetcode.tree;
 
 import java.util.ArrayList;
 import java.util.List;

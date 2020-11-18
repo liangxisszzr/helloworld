@@ -1,7 +1,4 @@
-package com.jumpjob.LeatCode.linkedlist;
-
-import java.util.ArrayList;
-import java.util.List;
+package com.jumpjob.leetcode.linkedlist;
 
 /**
  * 下一个更大的节点

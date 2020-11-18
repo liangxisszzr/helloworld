@@ -1,4 +1,4 @@
-package com.jumpjob.LeatCode.array;
+package com.jumpjob.leetcode.array;
 
 /**
  * 在二维数组中查找

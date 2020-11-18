@@ -1,4 +1,4 @@
-package com.jumpjob.LeatCode.linkedlist;
+package com.jumpjob.leetcode.linkedlist;
 
 /**
  * 分隔链表 *

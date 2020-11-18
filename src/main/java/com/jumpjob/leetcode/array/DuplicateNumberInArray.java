@@ -1,4 +1,4 @@
-package com.jumpjob.LeatCode.array;
+package com.jumpjob.leetcode.array;
 
 /**
  * 找出任意一个数组中重复的数字

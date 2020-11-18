@@ -1,9 +1,4 @@
-package com.jumpjob.LeatCode.linkedlist;
-
-import java.util.ArrayList;
-import java.util.HashSet;
-import java.util.List;
-import java.util.Set;
+package com.jumpjob.leetcode.linkedlist;
 
 /**
  * @Auther: zuojianhou
