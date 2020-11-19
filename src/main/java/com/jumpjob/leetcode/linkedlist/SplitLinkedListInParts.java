@@ -18,7 +18,7 @@ public class SplitLinkedListInParts {
             head = head.next;
         }
         ListNode[] res = new ListNode[k];
-        ListNode temp = null;
+        ListNode temp;
         int i = 0;
         if (sum <= k) {
             while (i < k) {
